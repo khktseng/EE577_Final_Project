@@ -1,0 +1,14 @@
+radix	1 1 1
+io	i i i
+vname	clk read_en write_en
+tunit	ns
+slope	0.005
+vih	1
+vil	0
+
+0	1 0 1
+1	0 0 1
+2	1 1 0
+3	0 1 0
+4	1 0 1
+5	0 0 1 

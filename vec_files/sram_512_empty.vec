@@ -1,0 +1,15 @@
+radix 1 1 1 4 4 44444444
+io i i i i i i
+vname PRE write_en read_en A<[3:0]> AB<[3:0]> data<[31:0]>
+tunit ns
+slope 0.005
+vih 1.0
+vil 0.0
+0	0 0 0 0 F XXXXXXXX
+1	1 0 1 0 F XXXXXXXX
+2	0 0 0 1 E XXXXXXXX
+3	1 0 1 1 E XXXXXXXX
+4	0 0 0 E 1 XXXXXXXX
+5	1 0 1 E 1 XXXXXXXX
+6	0 0 0 F 0 XXXXXXXX
+7	1 0 1 F 0 XXXXXXXX

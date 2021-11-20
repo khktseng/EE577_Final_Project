@@ -1,0 +1,17 @@
+radix 1 1 1 4 4 44444444
+io i i i i i i
+vname RESETB write_en read_en A<[3:0]> AB<[3:0]> data<[31:0]>
+tunit ns
+slope 0.005
+vih 1.0
+vil 0.0
+
+0	0 1 0 F 0 DEADBEEF
+1	1 1 0 0 F ABADCAFE
+2	1 1 0 8 7 12ABCD91
+3	1 1 0 9 6 1296CD21
+
+4	1 0 1 F 0 XXXXXXXX
+5	1 0 1 0 F XXXXXXXX
+6	1 0 1 8 7 XXXXXXXX
+7	1 0 1 9 6 XXXXXXXX

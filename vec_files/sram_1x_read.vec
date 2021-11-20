@@ -1,0 +1,10 @@
+radix 1 1
+io i i
+vname WL PRE
+tunit ns
+slope 0.05
+vih 1.0
+vil 0.0
+
+0	0 0
+2	1 1

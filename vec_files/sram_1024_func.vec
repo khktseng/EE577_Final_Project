@@ -1,0 +1,17 @@
+radix 1 1 1 24 24 4444
+io i i i i i i
+vname reset write1 v A<[5:0]> AB<[5:0]> data<[15:0]>
+tunit ns
+slope 0.005
+vih 1.0
+vil 0.0
+
+0	0 1 0 02 3D DEAD
+1	1 1 0 08 37 BEEF
+2	1 1 0 09 36 FEED
+3	1 1 0 0A 35 BEAD
+
+4	1 0 1 05 3A XXXX
+5	1 0 1 09 36 XXXX
+6	1 0 1 0C 33 XXXX
+7	1 0 1 06 39 XXXX

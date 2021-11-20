@@ -1,0 +1,12 @@
+radix 1 1 1 1
+io i i i i
+vname WL BL BLB PR
+tunit ns
+slope 0.05
+vih 1.0
+vil 0.0
+
+0	0 1 0 1 
+1	1 1 0 1 
+2	0 0 1 1 
+3	1 0 1 1 
