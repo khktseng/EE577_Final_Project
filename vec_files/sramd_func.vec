@@ -1,0 +1,18 @@
+radix 1 1 1 1 1 1
+io i i i i i i
+vname PRE WL WB sense_en WE WD
+tunit ns
+slope 0.005
+vih 1.0
+vil 0.0
+
+0	0 1 1 1 1 1
+1	0 0 0 1 1 1
+2	0 0 0 0 0 0
+3	1 1 1 0 0 0
+3.1	1 1 1 1 0 0
+4	0 1 1 1 1 0
+5	0 0 0 1 1 0
+6	0 0 0 0 0 0
+7	1 1 1 0 0 0
+7.1	1 1 1 1 0 0

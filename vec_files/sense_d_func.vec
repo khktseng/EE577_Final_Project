@@ -1,0 +1,10 @@
+radix	1 
+io	i  
+vname	SE
+tunit	ns
+slope	0.005
+vih	1
+vil	0
+
+0	0
+0.25	1
