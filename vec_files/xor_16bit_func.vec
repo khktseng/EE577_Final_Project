@@ -1,0 +1,13 @@
+radix	4444
+io	i 
+vname	A<[15:0]>
+tunit	ns
+slope	0.005
+vih	1
+vil	0
+
+0	000D
+2	0004
+4	0123
+6	5896
+8	34AF

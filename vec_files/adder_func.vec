@@ -1,0 +1,12 @@
+radix	4444 4444 1
+io	i i i
+vname	A<[15:0]> B<[15:0]> CI
+tunit	ns
+slope	0.005
+vih	1
+vil	0
+
+0	0000 0000 0
+5	FFFF 0000 1
+10	DEAD BEEF 1
+15	FACE CAFE 1

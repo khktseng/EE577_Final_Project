@@ -1,0 +1,11 @@
+radix	4444 4444 1 1
+io	i i i i
+vname	A<[15:0]> B<[15:0]> ADD MUL
+tunit	ns
+slope	0.005
+vih	1
+vil	0
+
+0	FFFF 0000 1 0
+5	000D 0004 1 0
+10	0009 0004 0 1

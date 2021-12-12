@@ -1,0 +1,10 @@
+radix	4444 4444
+io	i i
+vname	A<[15:0]> B<[15:0]>
+tunit	ns
+slope	0.005
+vih	1
+vil	0
+
+0	000D 0004
+5	0009 0004
