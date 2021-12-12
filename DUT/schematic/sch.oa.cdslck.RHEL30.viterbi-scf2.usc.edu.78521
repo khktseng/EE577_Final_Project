@@ -13,4 +13,4 @@ AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/viterbi/01/kyletsen/work_gpdk045/EE577_Final_Project/DUT/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat Dec 11 22:08:22 2021 PST
+TimeEditLocked                 Sun Dec 12 01:26:58 2021 PST

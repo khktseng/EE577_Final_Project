@@ -1,0 +1,14 @@
+radix 24 24 24 4444 1 11 24 24 1
+io i i i i i i i i i
+vname A1<[5:0]> A2<[5:0]> WA<[5:0]> WD<[15:0]> WE1 OP<[1:0]> A<[5:0]> WA<[5:0]> WE2
+tunit ns
+slope 0.005
+vih 1.0
+vil 0.0
+
+0	XX XX 03 000D 1 XX XX XX 0
+2	XX XX 0A 0004 1 XX XX XX 0
+4	03 0A 09 0009 1 XX XX XX 0
+6	09 0A 02 0007 1 10 XX XX 0
+8	XX XX XX XXXX 0 01 07 07 1
+10	XX XX XX XXXX 0 01 06 06 1
